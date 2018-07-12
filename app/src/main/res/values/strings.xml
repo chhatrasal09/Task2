@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="create_csv">Create CSV</string>
+</resources>
